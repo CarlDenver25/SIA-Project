@@ -1,0 +1,13 @@
+# Private credentials
+credentials.json
+token.json
+.env
+
+# Python files
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# VS Code
+.vscode/
